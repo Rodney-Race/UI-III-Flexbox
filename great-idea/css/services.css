@@ -116,8 +116,7 @@ p {
 }
 .container {
 	width: 1000px;
-	margin: auto;
-	border: 1px solid black; 
+	margin: auto; 
 	padding: 30px 50px 30px 50px;
 	margin-bottom: 50px;
 }
